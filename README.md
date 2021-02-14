@@ -5,7 +5,7 @@
 Трансляции на лекции: https://www.youtube.com/playlist?list=PL9vFTJYocFHoRvWr-jiC9r3i9jayLzvPg  📺  
   
 Лабы по МТО 🤳   
-Лабороторная 1   
+Лабороторная 1 ✔     
 Лабороторная 2    
 
 -------------------------------------------------------------------------  
@@ -15,5 +15,5 @@ Website of the teacher: https://ugapanyuk.github.io/
 Course page: https://github.com/ugapanyuk/ml_course_2021/wiki/COURSE_TMO 📢  
 
 Labs for MTO 🤳  
-Laboratory 1    
+Laboratory 1 ✔  
 Laboratory 2    
