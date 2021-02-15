@@ -4,7 +4,7 @@
 Страница курса: https://github.com/ugapanyuk/ml_course_2021/wiki/COURSE_TMO  📢  
 Трансляции на лекции: https://www.youtube.com/playlist?list=PL9vFTJYocFHoRvWr-jiC9r3i9jayLzvPg  📺  
   
-Лабы по МТО 🤳   
+Лабы по ТМО 🤳   
 Лабороторная 1 ✔     
 Лабороторная 2    
 
@@ -14,6 +14,6 @@ Teacher: Gapanyuk Yu. E.
 Website of the teacher: https://ugapanyuk.github.io/    
 Course page: https://github.com/ugapanyuk/ml_course_2021/wiki/COURSE_TMO 📢  
 
-Labs for MTO 🤳  
+Labs for ТМО 🤳  
 Laboratory 1 ✔  
 Laboratory 2    
