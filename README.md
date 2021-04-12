@@ -8,7 +8,7 @@
     https://www.youtube.com/playlist?list=PL9vFTJYocFHoRvWr-jiC9r3i9jayLzvPg  📺  
 Полезная ссылка для работы с анализом:  
     https://github.com/ugapanyuk/ml_course_2021/wiki/IDE ❕  
-#### РК    
+#### Рубежные контроли      
 РК 1  
 РК 2  
 #### Лабы по ТМО 🤳   
