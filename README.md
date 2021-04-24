@@ -15,8 +15,8 @@
 Лабороторная 1 ✔     
 Лабороторная 2 ✔    
 Лабороторная 3 ✔     
-Лабороторная 4  
-Лабороторная 5  
+Лабороторная 4 ✔  
+Лабороторная 5 ✔  
 Лабороторная 6  
 
 #### Курсовой проект  
@@ -37,8 +37,8 @@ Lectures broadcasts:
 Laboratory 1 ✔  
 Laboratory 2 ✔    
 Laboratory 3 ✔  
-Laboratory 4  
-Laboratory 5  
+Laboratory 4 ✔  
+Laboratory 5 ✔  
 Laboratory 6  
 
 #### Exchange Rate Project  
