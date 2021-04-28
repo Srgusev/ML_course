@@ -1,13 +1,9 @@
 ## Технологии машинного обучения (ТМО) 📝   
 Преподователь: Гапанюк Ю. Е.  
-Сайт преподователя:  
-  https://ugapanyuk.github.io/    
-Страница курса:  
-  https://github.com/ugapanyuk/ml_course_2021/wiki/COURSE_TMO  📢  
-Трансляции на лекции:  
-    https://www.youtube.com/playlist?list=PL9vFTJYocFHoRvWr-jiC9r3i9jayLzvPg  📺  
-Полезная ссылка для работы с анализом:  
-    https://github.com/ugapanyuk/ml_course_2021/wiki/IDE ❕  
+[Сайт преподователя](https://ugapanyuk.github.io/)    
+[Страница курса](https://github.com/ugapanyuk/ml_course_2021/wiki/COURSE_TMO) 📢    
+[Трансляции на лекции](https://www.youtube.com/playlist?list=PL9vFTJYocFHoRvWr-jiC9r3i9jayLzvPg) 📺    
+[Полезная ссылка для работы с анализом](https://github.com/ugapanyuk/ml_course_2021/wiki/IDE) ❕    
 #### Рубежные контроли      
 РК 1  ✔  
 РК 2  
