@@ -45,3 +45,4 @@ Laboratory 6
 
 #### Exchange Rate Project   
 The course project is an independent part of the training discipline "Machine Learning Technologies" - educational and practical research student work aimed at solving the complex problem of machine learning. The result of the course project is a report containing model descriptions, program texts and experimental results.  
+[Example project](https://nbviewer.jupyter.org/github/ugapanyuk/ml_course_2021/blob/main/common/notebooks/ml_project_example/project_classification_regression.ipynb)  
