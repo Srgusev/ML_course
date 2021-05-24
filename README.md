@@ -13,7 +13,7 @@
 Лабороторная 3 ✔     
 Лабороторная 4 ✔  
 Лабороторная 5 ✔  
-Лабороторная 6  
+Лабороторная 6 ✔  
 
 #### Курсовой проект  
 Курсовой проект – самостоятельная часть учебной дисциплины «Технологии машинного обучения» – учебная и практическая исследовательская студенческая работа, направленная на решение комплексной задачи машинного обучения. Результатом курсового проекта является отчет, содержащий описания моделей, тексты программ и результаты экспериментов.  
@@ -37,7 +37,7 @@ Laboratory 2 ✔
 Laboratory 3 ✔  
 Laboratory 4 ✔  
 Laboratory 5 ✔  
-Laboratory 6  
+Laboratory 6 ✔   
 
 #### Exchange Rate Project   
 The course project is an independent part of the training discipline "Machine Learning Technologies" - educational and practical research student work aimed at solving the complex problem of machine learning. The result of the course project is a report containing model descriptions, program texts and experimental results.  
