@@ -15,11 +15,9 @@
 Лабороторная 5 ✔  
 Лабороторная 6 ✔  
 
-#### Курсовой проект  
+#### Курсовой проект ✔    
 Курсовой проект – самостоятельная часть учебной дисциплины «Технологии машинного обучения» – учебная и практическая исследовательская студенческая работа, направленная на решение комплексной задачи машинного обучения. Результатом курсового проекта является отчет, содержащий описания моделей, тексты программ и результаты экспериментов.  
 [Пример курсовой](https://nbviewer.jupyter.org/github/ugapanyuk/ml_course_2021/blob/main/common/notebooks/ml_project_example/project_classification_regression.ipynb)
-
-##### Coursework 
 
 -------------------------------------------------------------------------  
 ## Machine Learning Technologies (TMO) 📝  
@@ -45,4 +43,4 @@ Laboratory 6 ✔
 The course project is an independent part of the training discipline "Machine Learning Technologies" - educational and practical research student work aimed at solving the complex problem of machine learning. The result of the course project is a report containing model descriptions, program texts and experimental results.  
 [Example project](https://nbviewer.jupyter.org/github/ugapanyuk/ml_course_2021/blob/main/common/notebooks/ml_project_example/project_classification_regression.ipynb)  
 
-##### Coursework 
+##### Coursework ✔  
